@@ -15,10 +15,17 @@ Scan the entire internet for SSH and Telnet ports. Then automatically hack them.
   ```
 
 ## Roadmap
-- Worm features (after gaining access to one system, install and start the tool on it, increasing the spreading speed!)
+- Network Worm
+  - Cross-platform, portable binary version of this software.
+  - After hacking into vulnerable service, drop the binary and start it.
+  - Cracking speed grows linearly with each machine hacked.
+  - Potentially centralized C&C through Tor (?)
+- Web UI for monitoring cracking jobs and progress
 - Shodan API integration
 - Support for VNC, RDP, FTP, and others.
 
-### Warning
-##### :warning: This software is under active development
-I will try to Dockerize this project at some point. For now we just gotta deal with the installation part :grin:
+## Pull Requests Welcome!
+Pull requests are welcome and encouraged! Feel free to fork, hack, and contribute to the project.
+
+#### Notice
+##### :warning: This software is under active development, features are subject to change in future versions.
