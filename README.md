@@ -1,6 +1,5 @@
 # Knock
-Scan the entire internet for SSH and Telnet ports. Then automatically hack them.
-
+Scan the random IP addresses for open SSH and Telnet ports. Then automatically hack them.
 
 ## Installation
 - Install the following:
