@@ -1,5 +1,6 @@
 # Knock
-Scan the entire internet for SSH and Telnet ports. Then automatically hack them. [*YEET*](https://www.youtube.com/watch?v=hTekDcdtVcg)
+Scan the entire internet for SSH and Telnet ports. Then automatically hack them.
+
 
 ## Installation
 - Install the following:
@@ -13,6 +14,10 @@ Scan the entire internet for SSH and Telnet ports. Then automatically hack them.
   npm start
   ```
 
+## Roadmap
+- Worm features
+- Shodan API integration
+- Support for VNC, RDP, FTP, and others.
 
 ### Warning
 ##### :warning: This software is under active development
