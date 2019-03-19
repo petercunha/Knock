@@ -1,4 +1,3 @@
-##### :warning: This software is under development
 # Knock
 Scan the entire internet for SSH and Telnet ports. Then automatically hack them. [*YEET*](https://www.youtube.com/watch?v=hTekDcdtVcg)
 
@@ -12,3 +11,7 @@ Scan the entire internet for SSH and Telnet ports. Then automatically hack them.
   npm i
   npm start
   ```
+
+
+### Warning
+##### :warning: This software is under active development
