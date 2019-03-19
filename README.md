@@ -12,6 +12,4 @@ Scan the entire internet for SSH and Telnet ports. Then automatically hack them.
   npm start
   ```
   
-## This software is under development
-
-:warning: **THIS IS A WORK IN PROGRESS**
+### :warning: This software is under development
