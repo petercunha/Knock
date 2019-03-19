@@ -3,7 +3,8 @@ Scan the entire internet for SSH and Telnet ports. Then automatically hack them.
 
 ## Installation
 - Install the following:
-  - `nmap`, `ncrack`, and `node`
+  - `redis`, `nmap`, `ncrack`, and `node`
+- Start the Redis service, edit the `.env` file to point to it
 - Then run:
   ```bash
   git clone https://github.com/petercunha/knock.git
@@ -15,3 +16,4 @@ Scan the entire internet for SSH and Telnet ports. Then automatically hack them.
 
 ### Warning
 ##### :warning: This software is under active development
+I will try to Dockerize this project at some point. For now we just gotta deal with the installation part :grin:
