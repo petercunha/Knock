@@ -1,6 +1,12 @@
 # Knock
 Scan the random IP addresses for open SSH and Telnet ports. Then automatically hack them.
 
+
+## Demo
+A demo of running this software. It can take several minutes on a good connection before Knock starts finding accounts.
+
+[![asciicast](https://asciinema.org/a/UCcMXi1wl2Zs3OZYjGigmaxUS.svg)](https://asciinema.org/a/UCcMXi1wl2Zs3OZYjGigmaxUS)
+
 ## Installation
 - Install the following:
   - `redis`, `nmap`, `ncrack`, and `node`
