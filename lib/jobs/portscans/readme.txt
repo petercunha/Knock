@@ -1,0 +1,1 @@
+This file temporarily stores port scan results while the "attack" worker waits to process them
