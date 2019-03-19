@@ -1,5 +1,5 @@
 # knock
-scan the entire internet for ssh ports. then hack em. yaw yeet.
+Scan the entire internet for SSH and Telnet ports. Then automatically hack them. *YEET*.
 
 :warning: **THIS IS A WORK IN PROGRESS**
 
