@@ -1,9 +1,7 @@
-# knock
+# Knock
 Scan the entire internet for SSH and Telnet ports. Then automatically hack them. [*YEET*](https://www.youtube.com/watch?v=hTekDcdtVcg)
 
-:warning: **THIS IS A WORK IN PROGRESS**
-
-# Installation
+## Installation
 - Install the following:
   - `nmap`, `ncrack`, and `node`
 - Then run:
@@ -13,3 +11,7 @@ Scan the entire internet for SSH and Telnet ports. Then automatically hack them.
   npm i
   npm start
   ```
+  
+## This software is under development.
+
+:warning: **THIS IS A WORK IN PROGRESS**
