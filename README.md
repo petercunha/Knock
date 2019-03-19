@@ -15,7 +15,7 @@ Scan the entire internet for SSH and Telnet ports. Then automatically hack them.
   ```
 
 ## Roadmap
-- Worm features
+- Worm features (after gaining access to one system, install and start the tool on it, increasing the spreading speed!)
 - Shodan API integration
 - Support for VNC, RDP, FTP, and others.
 
