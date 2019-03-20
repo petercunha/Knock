@@ -1,10 +1,8 @@
 // Software Version
-const version = 0.1;
+const version = 0.2
 
 // Initialize
 const chalk = require('chalk')
-require('dotenv').config()
-require('./lib/knock').init()
 
 // Banner
 console.log(`
@@ -18,3 +16,6 @@ ${chalk.dim(`Knock v${version}`)}
 ${chalk.dim('Hack the internet!')}
 ${chalk.dim('Project by https://github.com/petercunha/knock')}
 `)
+
+require('dotenv').config()
+require('./lib/knock').init()
