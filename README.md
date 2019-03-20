@@ -9,7 +9,7 @@ A demo of running this software. It can take several minutes on a good connectio
 
 ## Installation
 - Install the following:
-  - `redis`, `nmap`, `ncrack`, and `node`
+  - `redis`, `nmap`, `hydra`, and `node`
 - Start the Redis service, edit the `.env` file to point to it
 - Then run:
   ```bash
