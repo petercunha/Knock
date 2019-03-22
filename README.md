@@ -5,7 +5,7 @@ When tested on a 25/5 Mbps connection, **Knock found an average of 3 server logi
 
 
 ### Disclaimer
-:warning: Using this program in it's current state is illegal. I am not responsible for your actions.
+:warning: Using this program in it's current state is illegal in most countries. I am not responsible for your actions.
 
 
 ## Demo
