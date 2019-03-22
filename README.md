@@ -3,7 +3,7 @@ Scan random IP addresses on the Internet for open SSH and Telnet ports. Then aut
 
 When tested on a 25/5 Mbps connection, **Knock found an average of 3 server login credentials per hour.**
 
-***USING THIS PROGRAM IN IT'S CURRENT STATE IS ILLEGAL. I AM NOT RESPONSIBLE FOR USAGE. SEE THE LICENSE FILE FOR DETAILS*
+:warning: *USING THIS PROGRAM IN IT'S CURRENT STATE IS ILLEGAL. I AM NOT RESPONSIBLE FOR USAGE. SEE THE LICENSE FILE FOR DETAILS*
 
 
 ## Demo
