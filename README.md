@@ -1,5 +1,5 @@
 # Knock
-Scan the random IP addresses for open SSH and Telnet ports. Then automatically hack them.
+Scan random IP addresses on the Internet for open SSH and Telnet ports. Then automatically hack them by using THC-Hydra. The entire process is automated by Knock, and credentials are printed to console as they are found. As tested on a 25 Down/5 Up Mbps connection, Knock finds an average of 3 credentials per hour.
 
 
 ## Demo
