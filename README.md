@@ -9,7 +9,7 @@ When tested on a 25/5 Mbps connection, **Knock found an average of 3 server logi
 
 
 ## Demo
-A demo of running this software. It can take several hours on a good connection before Knock starts finding accounts.
+A demo of running this software. It can take several hours on a good connection before Knock starts finding accounts. It's best to run this on a server in the background.
 
 ![Demo Image](https://i.imgur.com/rhP8XTQ.png)
 
